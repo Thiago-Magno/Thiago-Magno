@@ -3,7 +3,7 @@
 
 
 - 🔭 Trabalho com Front-end
-- 🌱 Estudando React Native, Desenvolvimento web and Typescript
+- 🌱 Estudando  Desenvolvimento web e js
  
 <div align="center">
   <a href="https://github.com/Thiago-Magno">
