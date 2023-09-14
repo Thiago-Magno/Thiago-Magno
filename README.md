@@ -4,6 +4,9 @@
 
 - 🔭 Trabalho com Front-end
 - 🌱 Estudando  Desenvolvimento web e js
+- Neste perfil você vai encontrar:
+ - :open_file_folder:Projetos pessoais
+ - :books: Anotações de estudo
  
 <div align="center">
   <a href="https://github.com/Thiago-Magno">
