@@ -7,8 +7,8 @@
  
 <div align="center">
   <a href="https://github.com/Thiago-Magno">
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Thaigo-Magno&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Thiago-Magno/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Magno)](https://github.com/Thiago-Magno/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Magno&layout=compact)
 </div>
 
   <div style="display: inline_block"><br>
