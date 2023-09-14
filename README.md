@@ -7,7 +7,6 @@
  
 <div align="center">
   <a href="https://github.com/Thiago-Magno">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Magno)](https://github.com/Thiago-Magno/github-readme-stats)
    
 </div>
 
