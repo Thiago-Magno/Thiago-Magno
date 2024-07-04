@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Trabalho com Front-end
+- 🔭 Trabalho com Desenvolvimento web 
 - 🌱 Estudando  Desenvolvimento web e js
 - Neste perfil você vai encontrar:
  - :open_file_folder:Projetos pessoais
